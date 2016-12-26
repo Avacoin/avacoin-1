@@ -1,9 +1,14 @@
 
-AvaCoin development tree
+AAlgorithm	Scrypt
+Type	PoW/PoS
+Coin name	AvaCoin
+Coin abbreviation	AVA
+Address letter	A
+RPC port	9132
+P2P port	9131
+Block reward	100 coins
+Total coin supply	140000000 coins
 
-AvaCoin is a PoS-based cryptocurrency.
-
-Development process
 ===========================
 
 Developers work in their own trees, then submit pull requests when
